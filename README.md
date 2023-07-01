@@ -1,6 +1,8 @@
 # reddit_ausEng
 Data storage for the Australian Reddit Text DB
 
+## Folder Structure
+
 ## Abstract
 A Text Database from Reddit: A Case for Australian English
 
