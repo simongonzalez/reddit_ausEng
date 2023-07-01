@@ -2,7 +2,7 @@
 Data storage for the Australian Reddit Text DB
 
 ## Abstract
-##A Text Database from Reddit: A Case for Australian English
+A Text Database from Reddit: A Case for Australian English
 
 The advent of social media platforms has transformed the way people communicate and express themselves. These platforms generate an enormous amount of textual data, which can provide valuable insights into various aspects of human behaviour, language use, and societal trends. One compelling reason for creating such databases is the ability to study the change of language in real-time and capture the dynamic nature of communication within online communities.
 
