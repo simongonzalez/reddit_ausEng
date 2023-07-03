@@ -3,6 +3,13 @@ Data storage for the Australian Reddit Text DB
 
 ## Folder Structure
 
+- 1_reference: information on the indexes of all users/authors in the database
+- 2_raw: raw posts as extracted from Reddit
+- 3_counts: counts of all texts and their morphological/lexical components
+- 4_NLP: NLP tagging for each post
+- 5_frequencies: frequencies for the morphological/lexical components, across all topics/regions
+- 6_frequenciesOndividual: frequencies for the morphological/lexical components, for each individual user/author
+
 ## Abstract
 A Text Database from Reddit: A Case for Australian English
 
